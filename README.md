@@ -8,6 +8,19 @@
 
 ---
 
+## 📄 For Business Partners / Для партнёров
+
+Готовое досье для приобретения, white-label лицензирования или технологического партнёрства:
+
+- **[Техническое досье](./docs/TECHNICAL_DOSSIER.md)** — архитектура, активы, честные ограничения
+- **[Отчёт о security-аудите](./docs/SECURITY_AUDIT_REPORT.md)** — 30 исправленных находок с классификацией
+- **[Регуляторное позиционирование](./docs/COMPLIANCE_POSITIONING.md)** — анализ юрисдикций (Узбекистан/НАПП, Казахстан/AIFC и др.)
+- **[One-pager и шаблоны писем](./docs/PITCH_ONE_PAGER.md)** — предложение и outreach-материалы
+
+Исходный код и демо-стенд — по запросу после NDA.
+
+---
+
 ## What is CryptoPay?
 
 CryptoPay is a platform for:
